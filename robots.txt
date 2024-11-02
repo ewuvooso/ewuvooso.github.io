@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewuvooso.github.io/Kvm/sitemap_index.txt
+Sitemap: https://ewuvooso.github.io/Mie/sitemap_index.txt
+Sitemap: https://ewuvooso.github.io/Pug/sitemap_index.txt
+Sitemap: https://ewuvooso.github.io/ieG/sitemap_index.txt
